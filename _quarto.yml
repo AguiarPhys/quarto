@@ -1,13 +1,27 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "quarto"
+  title: "Richard's Slides"
+  description: "A selection of my academic slides in atomic, optical physics"
+  site-url: "https://aguiarphys.uk/quarto/"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+
+  sidebar:
+    style: "docked"
+    tools:
+      - icon: github
+        href: https://github.com/aguiarphys
+    contents:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
 
 format:
   html:
