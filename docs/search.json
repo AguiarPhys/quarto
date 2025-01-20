@@ -1,13 +1,17 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "quarto",
-    "section": "",
-    "text": "This is a website to store my slides!\n\nSlides\n\nInsert link here",
-    "crumbs": [
-      "Home"
-    ]
+    "objectID": "slides/atoms.html#getting-up",
+    "href": "slides/atoms.html#getting-up",
+    "title": "Habits",
+    "section": "Getting up",
+    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
+  },
+  {
+    "objectID": "slides/atoms.html#going-to-sleep",
+    "href": "slides/atoms.html#going-to-sleep",
+    "title": "Habits",
+    "section": "Going to sleep",
+    "text": "Going to sleep\n\nGet in bed\nCount sheep"
   },
   {
     "objectID": "about.html",
@@ -18,6 +22,16 @@
     "crumbs": [
       "Home",
       "About"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto",
+    "section": "",
+    "text": "This is a website to store my slides!\n\nSlides\n\nInsert link here",
+    "crumbs": [
+      "Home"
     ]
   }
 ]
