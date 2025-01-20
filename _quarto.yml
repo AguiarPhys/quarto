@@ -17,6 +17,8 @@ website:
     tools:
       - icon: github
         href: https://github.com/aguiarphys
+      - icon: bluesky
+        href: https://bsky.app/profile/aguiarphys.uk
     contents:
       - href: index.qmd
         text: Home
