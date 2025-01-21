@@ -1,15 +1,54 @@
 ---
-title: "Habits"
-author: "John Doe"
-format: revealjs
+title: "Spatial Polspec"
+subtitle: "polarisation spectroscopy"
+author: "Richard Aguiar"
+format:
+  revealjs:
+    theme: default
+    transition: slide
+    background-transition: fade
+code-link: true
+execute:
+  echo: true
+  freeze: auto
 ---
 
-## Getting up
+# introduction
 
-- Turn off alarm
-- Get out of bed
+## takeaway
 
-## Going to sleep
+<br><br>
 
-- Get in bed
-- Count sheep
+> This is that thing
+
+::: aside
+Çetinkaya-Rundel, M., Hardin, J., Baumer, B. S., McNamara, A., Horton, N. J., & Rundel, C.
+(2021).
+An educator's perspective of the tidyverse.
+arXiv preprint arXiv:2108.03510.
+[arxiv.org/abs/2108.03510](https://arxiv.org/abs/2108.03510)
+:::
+
+
+::: aside
+pal lado dshffgdfgfdgjgh
+:::
+
+## task: calculate a summary statistic
+
+::: goal
+meta
+:::
+
+
+## break it down I
+
+::: columns
+::: {.column width="40%"}
+Make
+:::
+
+::: {.column width="60%"}
+Columns
+:::
+:::
